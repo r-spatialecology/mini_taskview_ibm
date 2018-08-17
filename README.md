@@ -1,10 +1,11 @@
-# mini_taskview_ibm
+# Taskview Individual-Based Models
 
 This is a collection of agent-based (or individual-based) models in R. It includes packages, codes, and tutorials dealing with the simulation of any kidn of agents in a spatially explicit landscape as well as in a non-spatial way. 
 
 Contributions are welcome! Please submit an issue, or make a contribution. 
 
 ## Packages
+- [nlrx](https://github.com/nldoc/nlrx): The nlrx package provides tools to setup NetLogo simulations in R. It uses a similar structure as NetLogos Behavior Space but offers more flexibility and additional tools for running sensitivity analyses.
 - [SpaDES](https://github.com/PredictiveEcology/SpaDES) : Metapackage for implementing a variety of event-based models, with a focus on spatially explicit models. These include raster-based, event-based, and agent-based models.
 - [simecol](http://simecol.r-forge.r-project.org/): "a lightweight R package that employs an object oriented paradigm for the implementation of dynamic simulation models."
 - [NetLogoR](https://github.com/PredictiveEcology/NetLogoR): "Easily create agent-based models in R following the NetLogo framework (Wilensky, 1999)."
